@@ -9,7 +9,7 @@ If you run into any issues, you can try googling the error message, or you can e
 
 ## Set up Conda
 ### Check if Conda is already installed
-- Open terminal using the following instructions for your operating system. (Instructions taken from [this source](https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/).
+- Open terminal using the following instructions for your operating system. (Instructions taken from [this source](https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/)).
     - Mac:
         1. Open the Terminal app by pressing Command + Spacebar key combination to search by using Spotlight.
         2. In the search box, enter Terminal. In the results set select Terminal app, and then press Return to start the app.
@@ -38,6 +38,7 @@ If you run into any issues, you can try googling the error message, or you can e
 - Follow the instructions for your operating system (Linux, Windows, or Mac) here: https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/
 - Troubleshooting:
     - If `code .` doesn't work for you, try using the Uninstall 'code' command in the PATH command before the "Install 'code' command in PATH" command following the instructions [here](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) ([source](https://stackoverflow.com/questions/29955500/code-is-not-working-in-on-the-command-line-for-visual-studio-code-on-os-x-ma)).
+    - For Linux, you can download either a .deb or a .rpm file. Which one you should use depends on your distribution, more specifically whether it is Debian- or Redhat-based. (Ubuntu, for example, is Debian-based and would need a .deb file.)
 
 
 ## Make a Github Account
