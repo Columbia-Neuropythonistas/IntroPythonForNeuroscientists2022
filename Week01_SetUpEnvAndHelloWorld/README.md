@@ -43,6 +43,7 @@ If you run into any issues, you can try googling the error message, or you can e
 
 ## Make a Github Account
 - Go [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) to make a github account. I would recommend using an academic email because students get github pro for free, but you can always add other email addresses to your profile later. 
+- Submit your github username to this [google form](https://forms.gle/idAGheSfm6VCspwq9)
 
 
 # Resources
