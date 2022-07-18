@@ -1,5 +1,5 @@
 # Preparation for Class
-Please try to do this preparation by two days before our first class so that if you run into any issues we can help you troubleshoot so that everyone can start on the same page. If you run into any issues, you can try googling the error message, or you can email us. If you aren't able to figure it out on your own, please email jasmine.stone@columbia.edu.
+Please try to do this preparation by two days before our first class so that we have time to troubleshoot and everyone can start on the same page. If you run into any issues, you can try googling the error message, or you can email us. If you aren't able to figure it out on your own, please email jasmine.stone@columbia.edu.
 
 ## Video Introductions to Command Line and Git
 1. [Introduction to the Command Line (5m 40s)](https://www.youtube.com/watch?v=cgVbqxtx3hU)
@@ -43,7 +43,7 @@ Please try to do this preparation by two days before our first class so that if 
 
 ## Make a Github Account
 - Go [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) to make a github account. I would recommend using an academic email because students get github pro for free, but you can always add other email addresses to your profile later. 
-- Submit your github username to this [google form](https://forms.gle/idAGheSfm6VCspwq9)
+- Submit your github username to this [google form](https://forms.gle/idAGheSfm6VCspwq9).
 
 
 # Resources
