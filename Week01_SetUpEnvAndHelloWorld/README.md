@@ -22,7 +22,7 @@ If you run into any issues, you can try googling the error message, or you can e
 - If the output says conda and a version number, e.g. `conda 4.12.0`, skip to installing VSCode.
 - If you get an error message, install miniconda as follows.
 
-### Installing Miniconda
+#### Installing Miniconda
 - Download the version of miniconda for your machine [listed here](https://docs.conda.io/en/latest/miniconda.html#latest-miniconda-installer-links)
     - [Windows instructions for figuring out your system architecture](https://pcguide101.com/cpu/what-is-my-processor-architecture/)
     - Mac instructions for figuring out your system architecture:
