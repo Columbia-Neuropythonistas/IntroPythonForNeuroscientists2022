@@ -1,5 +1,5 @@
 # Preparation for Class
-If you run into any issues, you can try googling the error message, or you can email us. If you aren't able to figure it out on your own, please email jasmine.stone@columbia.edu. We will help you troubleshoot before class starts so that everyone can start on the same page.
+Please try to do this preparation by two days before our first class so that if you run into any issues we can help you troubleshoot so that everyone can start on the same page. If you run into any issues, you can try googling the error message, or you can email us. If you aren't able to figure it out on your own, please email jasmine.stone@columbia.edu.
 
 ## Video Introductions to Command Line and Git
 1. [Introduction to the Command Line (5m 40s)](https://www.youtube.com/watch?v=cgVbqxtx3hU)
