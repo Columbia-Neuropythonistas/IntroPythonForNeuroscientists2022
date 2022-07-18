@@ -54,4 +54,4 @@ Now that you've decided to take the class, we would like to get a sense of peopl
 # Resources
 - [Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 - [Command Line Cheatsheet](https://www.educative.io/blog/bash-shell-command-cheat-sheet)
-- [Conda Cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
+- [Conda Cheatsheet](https://docs.conda.io/projects/conda/en/latest/_downloads/cb0ffc4c7b1e6c0e716c066d2b077faf/conda-4.12.pdf)
