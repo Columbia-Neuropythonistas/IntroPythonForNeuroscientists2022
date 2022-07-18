@@ -1,8 +1,8 @@
 # Preparation for Class
-Please try to follow the instructions to [Set Up Conda](https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2022/edit/main/Week01_SetUpEnvAndHelloWorld/README.md#set-up-conda) and [Install VSCode](https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2022/edit/main/Week01_SetUpEnvAndHelloWorld/README.md#install-vscode) by two days before our first class so that we have time to troubleshoot and everyone can start on the same page. If you run into any issues, you can try googling the error message, or you can email us. If you aren't able to figure it out on your own, please email jasmine.stone@columbia.edu.
+Please try to follow the instructions to [Set Up Conda](https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2022/blob/main/Week01_SetUpEnvAndHelloWorld/README.md#set-up-conda) and [Install VSCode](https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2022/blob/main/Week01_SetUpEnvAndHelloWorld/README.md#install-vscode) by two days before our first class so that we have time to troubleshoot and everyone can start on the same page. If you run into any issues, you can try googling the error message, or you can email us. If you aren't able to figure it out on your own, please email jasmine.stone@columbia.edu.
 
 ## Fill Out Prior Experience [Form](https://forms.gle/b4uv61rAjPQ8bMRy7)
-Now that you've decided to take the class, we would like to get a sense of people's previous experience and what they want to get out of the class in case this is different than in the interest form we sent out last year.
+Now that you've decided to take the class, we would like to get a sense of people's previous experience and what they want to get out of the class in case this is different than in the interest form we sent out last year. Form [here](https://forms.gle/b4uv61rAjPQ8bMRy7).
 
 ## Video Introductions to Command Line and Git
 1. [Introduction to the Command Line (5m 40s)](https://www.youtube.com/watch?v=cgVbqxtx3hU)
