@@ -1,5 +1,5 @@
 # Preparation for Class
-Please try to follow the instructions to [Set Up Conda](https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2022/blob/main/Week01_SetUpEnvAndHelloWorld/README.md#set-up-conda) and [Install VSCode](https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2022/blob/main/Week01_SetUpEnvAndHelloWorld/README.md#install-vscode) by two days before our first class so that we have time to troubleshoot and everyone can start on the same page. Please also fill out the prior experience form by then. If you run into any issues, you can try googling the error message, or you can email us. If you aren't able to figure it out on your own, please email jasmine.stone@columbia.edu.
+Please try to follow the instructions to [Set Up Conda](https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2022/blob/main/Week01_SetUpEnvAndHelloWorld/README.md#set-up-conda) and [Install VSCode](https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2022/blob/main/Week01_SetUpEnvAndHelloWorld/README.md#install-vscode) by two days before our first class so that we have time to troubleshoot and everyone can start on the same page. Once you've set everything up, take a screenshot of the printed hello world and submit it to Courseworks. Please also fill out the prior experience form by then. If you run into any issues, you can try googling the error message, or you can email us. If you aren't able to figure it out on your own, please email jasmine.stone@columbia.edu.
 
 Please do the rest of the preparation before the first class.
 
@@ -41,6 +41,7 @@ Now that you've decided to take the class, we would like to get a sense of peopl
 
 ## Install VSCode
 - Follow the instructions for your operating system (Linux, Windows, or Mac) here: https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/
+- As a reminder, once you've gone through the instructions above, please take a screenshot of your printed hello world, and submit it on the courseworks.
 - Troubleshooting:
     - If `code .` doesn't work for you, try using the Uninstall 'code' command in the PATH command before the "Install 'code' command in PATH" command following the instructions [here](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) ([source](https://stackoverflow.com/questions/29955500/code-is-not-working-in-on-the-command-line-for-visual-studio-code-on-os-x-ma)).
     - For Linux, you can download either a .deb or a .rpm file. Which one you should use depends on your distribution, more specifically whether it is Debian- or Redhat-based. (Ubuntu, for example, is Debian-based and would need a .deb file.)
