@@ -3,7 +3,7 @@ Please try to follow the instructions to [Set Up Conda](https://github.com/Colum
 
 Please do the rest of the preparation before the first class.
 
-## Fill Out Pre Class Survey [Form](https://forms.gle/b4uv61rAjPQ8bMRy7)
+## Fill Out Pre-Class Survey [Form](https://forms.gle/b4uv61rAjPQ8bMRy7)
 Now that you've decided to take the class, we would like to get a sense of people's previous experience and what they want to get out of the class in case this is different than in the interest form we sent out last year. Form [here](https://forms.gle/b4uv61rAjPQ8bMRy7).
 
 ## Video Introductions to Command Line and Git
