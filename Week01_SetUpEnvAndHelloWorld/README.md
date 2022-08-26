@@ -19,8 +19,7 @@ Now that you've decided to take the class, we would like to get a sense of peopl
         1. Open the Terminal app by pressing Command + Spacebar key combination to search by using Spotlight.
         2. In the search box, enter Terminal. In the results set select Terminal app, and then press Return to start the app.
     - Windows:
-        1. Install Windows Terminal using [these instructions](https://docs.microsoft.com/en-us/windows/terminal/install). Use Powershell.
-        2. Open Windows Terminal. Whenever instructions say to use terminal, this is the terminal you will use.
+        1. Check if you have anaconda prompt installed. If not, it is unlikely that you have conda installed. Go directly to 'Installing Miniconda'.
     - Linux: 
         1. Open a Linux terminal session. The instructions for opening this session depend on your distribution and version of Linux. Check the online documentation for your Linux distribution for instructions on how to open a terminal session.
 - Check if conda is already installed by typing `conda --version` in terminal and pressing enter.
@@ -36,6 +35,7 @@ Now that you've decided to take the class, we would like to get a sense of peopl
         3. Select the appropriate miniconda download link ending in `.pkg`
     - Linux: The first option under linux should be appropriate for your computers.
 - Install the downloaded miniconda
+- Windows users: you will now use 'Anaconda Prompt (Miniconda3)' as your terminal from here on out. Check that it installed properly by searching for it in your start menu and opening it.
 - Check that the install worked by closing terminal if it is open, reopening it, and typing `conda --version`. The output should say conda and a version number, e.g. `conda 4.12.0`
 
 
