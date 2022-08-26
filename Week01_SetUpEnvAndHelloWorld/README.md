@@ -10,7 +10,7 @@ Now that you've decided to take the class, we would like to get a sense of peopl
 1. [Introduction to the Command Line (5m 40s)](https://www.youtube.com/watch?v=cgVbqxtx3hU)
 2. [Introduction to Git (Watch the first 6m 32s)](https://www.youtube.com/embed/uR6G2v_WsRA?end=392). The remainder of the video is good to watch for an introduction to how we will be using git in class, but is not necessary if you are short on time.
 3. [Introduction to Git Remotes / Github (Watch from 1:30-4:48 )](https://www.youtube.com/embed/Gg4bLk8cGNo?start=90&end=288)
-4. [Introduction to Conda / Package Managers (Watch the first 6m 56s)](https://www.youtube.com/embed/23aQdrS58e0?end=416). The remainder of the video is good to watch and provides a good introduction to how we will be using conda in class, but is not necessary if you are short on time.
+4. [Introduction to Conda / Package Managers (Watch the first 6m 56s](https://www.youtube.com/embed/23aQdrS58e0?end=416) and also [the end of the video from 15:50 on)](https://www.youtube.com/embed/23aQdrS58e0?start=950) The remainder of the video is good to watch and provides a good introduction to how we will be using conda in class, but is not necessary if you are short on time.
 
 ## Set up Conda
 ### Check if Conda is already installed
