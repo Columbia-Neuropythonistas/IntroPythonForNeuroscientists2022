@@ -1,5 +1,5 @@
 # Preparation for Class
-Please try to follow the instructions to [Set Up Conda](https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2022/blob/main/Week01_SetUpEnvAndHelloWorld/README.md#set-up-conda) and [Install VSCode](https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2022/blob/main/Week01_SetUpEnvAndHelloWorld/README.md#install-vscode) by two days before our first class so that we have time to troubleshoot and everyone can start on the same page. Once you've set everything up, take a screenshot of the printed hello world and submit it to Courseworks. Please also fill out the prior experience form by then. If you run into any issues, you can try googling the error message, or you can email us. If you aren't able to figure it out on your own, please email jasmine.stone@columbia.edu.
+Please try to follow the instructions to [Set Up Conda](https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2022/blob/main/Week01_SetUpEnvAndHelloWorld/README.md#set-up-conda) and [Install VSCode](https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2022/blob/main/Week01_SetUpEnvAndHelloWorld/README.md#install-vscode) by Sep 6 so that we have time to troubleshoot and everyone can start on the same page. Once you've set everything up, take a screenshot of the printed hello world, a screenshot of the conda version, and submit both to Courseworks. Please also fill out the pre-class survey form by then. If you run into any issues, you can try googling the error message, or you can email us. If you aren't able to figure it out on your own, please email jasmine.stone@columbia.edu.
 
 Please do the rest of the preparation before the first class.
 
@@ -23,7 +23,7 @@ Now that you've decided to take the class, we would like to get a sense of peopl
     - Linux: 
         1. Open a Linux terminal session. The instructions for opening this session depend on your distribution and version of Linux. Check the online documentation for your Linux distribution for instructions on how to open a terminal session.
 - Check if conda is already installed by typing `conda --version` in terminal and pressing enter.
-- If the output says conda and a version number, e.g. `conda 4.12.0`, skip to installing VSCode.
+- If the output says conda and a version number, e.g. `conda 4.12.0`, submit a screenshot of this to the courseworks assignment and skip to installing VSCode.
 - If you get an error message, install miniconda as follows.
 
 #### Installing Miniconda
@@ -36,7 +36,7 @@ Now that you've decided to take the class, we would like to get a sense of peopl
     - Linux: The first option under linux should be appropriate for your computers.
 - Install the downloaded miniconda
 - Windows users: you will now use 'Anaconda Prompt (Miniconda3)' as your terminal from here on out. Check that it installed properly by searching for it in your start menu and opening it.
-- Check that the install worked by closing terminal if it is open, reopening it, and typing `conda --version`. The output should say conda and a version number, e.g. `conda 4.12.0`
+- Check that the install worked by closing terminal if it is open, reopening it, and typing `conda --version`. The output should say conda and a version number, e.g. `conda 4.12.0`. Submit a screenshot of this to the courseworks assignment.
 
 
 ## Install VSCode
