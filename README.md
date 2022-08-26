@@ -20,8 +20,6 @@ Important dates:
 
 
 Schedule:
-
-
 <table class="tg">
 <thead>
   <tr>
@@ -32,17 +30,17 @@ Schedule:
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Week 1 (9/8)</span></td>
+    <td class="tg-0pky"><a href="https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2022/tree/main/Week01_SetUpEnvAndHelloWorld" target="_blank" rel="noopener noreferrer">Week 1</a><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> (9/8)</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Python Workflow:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Use python locally in VSCode in file form and as Jupyter Notebooks (hello world)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Set up conda environment</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Git Basics – create a repo and commit to it</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Jasmine</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Week 2 (9/15)</span></td>
+    <td class="tg-0pky"><a href="https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2022/tree/main/Week02_IntroPythonPart1" target="_blank" rel="noopener noreferrer">Week 2</a><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> (9/15)</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Python Basics:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Why use python?</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Data Types &amp; Variables (float, int, str, list, dict, tuple)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Booleans &amp; If/Else</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- For Loops</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Jasmine</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Week 3 (9/22)</span></td>
+    <td class="tg-0pky"><a href="https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2022/tree/main/Week03_IntroPythonPart2" target="_blank" rel="noopener noreferrer">Week 3</a><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> (9/22)</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Python Basics 2:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- input / output</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Control flow (while, break/continue, try/except)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Functions</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Jasmine</span></td>
   </tr>
