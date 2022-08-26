@@ -9,11 +9,11 @@ Prerequisites: No background in programming or math is required. All we ask is t
 Grading: Grades will be based on participation and the final project.
 
 Important dates:
-* By 9/6: Setup computer following these instructions.
-* By 9/8: Watch pre-videos and make a github account following instructions.
+* By 9/6: Setup computer following these [instructions](https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2022/tree/main/Week01_SetUpEnvAndHelloWorld).
+* By 9/8: Watch pre-videos and make a github account following [instructions](https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2022/tree/main/Week01_SetUpEnvAndHelloWorld).
 * Weeks 7-8: set up a time if you want to discuss your project with us
 * By 11/1: Submit 1-page project proposal
-* By 11/3: Install suite2p following these instructions.
+* By 11/3: Install suite2p following these [instructions](https://pypi.org/project/suite2p/).
 * Week 9: meet with us to discuss project proposal if necessary
 * By 11/29: Submit project
 * 12/8: presentation
