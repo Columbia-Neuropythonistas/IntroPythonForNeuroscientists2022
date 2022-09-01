@@ -57,5 +57,5 @@ Now that you've decided to take the class, we would like to get a sense of peopl
 
 ## Cheatsheets
 - [Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
-- [Command Line Cheatsheet](https://www.educative.io/blog/bash-shell-command-cheat-sheet)
+- [Command Line Cheatsheet](https://upload.wikimedia.org/wikipedia/commons/7/79/Unix_command_cheatsheet.pdf)
 - [Conda Cheatsheet](https://docs.conda.io/projects/conda/en/latest/_downloads/cb0ffc4c7b1e6c0e716c066d2b077faf/conda-4.12.pdf)
