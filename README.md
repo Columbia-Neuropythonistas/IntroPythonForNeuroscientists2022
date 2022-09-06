@@ -85,7 +85,7 @@ Schedule:
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Skip for SFN (11/24)</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Skip for Thanksgiving (11/24)</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">NO CLASS</span></td>
     <td class="tg-0pky"></td>
   </tr>
