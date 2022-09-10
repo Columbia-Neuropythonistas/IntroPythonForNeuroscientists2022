@@ -15,7 +15,7 @@ Like last week, if you run into issues please contact us before class. Please up
   
 ### 2. Navigate to your git repo
 - If you were able to `git clone` successfully during or after class, use `cd` and `ls` in terminal to navigate to your github repository on your computer.
-- If running `git status` gives you an error like this: ```fatal: not a git repository (or any of the parent directories): .git```, you are not in your git repository, and either still need to navigate to it, or 
+- If running `git status` gives you an error like this: ```fatal: not a git repository (or any of the parent directories): .git```, you are not in your git repository, and either still need to navigate to it, or you may not have successfully run `git clone` during class.
 - If you were unable to run `git clone` successfully during or after class, please do so now.
   - Go to your repository by going to [github](github.com), clicking on your profile picture at the top right, clicking "My Repositories" and then clicking the repository you made for class.
   - Click on the green button labeled "Code", make sure ssh is selected, and copy the link to the repository -- mine is "git@github.com:syncrostone/IntroPythonExample.git"
