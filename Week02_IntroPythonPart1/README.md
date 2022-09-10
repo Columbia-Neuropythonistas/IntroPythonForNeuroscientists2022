@@ -8,7 +8,7 @@ Like last week, if you run into issues please contact us before class. Please up
 - Remember that you should copy lines starting with `$` in to your terminal, excluding the `$`. Lines after `#` give a comment or explanation on what you are being told to do, and lines after `>` are the output you should expect to see.
 - Windows users, use git bash within PowerShell for this.
 - If you get errors about git being an unknown command, make sure the intropython environment is active for this step.
-- If you run into issues, make sure you have finished following the [ssh key setup instructions we used in the first class, specifically: 
+- If you run into issues, make sure you have finished following the ssh key setup instructions we used in the first class, specifically: 
   1. [Generating a new ssh key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key)
   2. [Adding your ssh key to the ssh agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#adding-your-ssh-key-to-the-ssh-agent)
   3. [Add a new ssh key to your github account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account#adding-a-new-ssh-key-to-your-account)
