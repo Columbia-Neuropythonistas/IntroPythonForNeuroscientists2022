@@ -30,6 +30,7 @@ Like last week, if you run into issues please contact us before class. Please up
 
 ### 5. Create a jupyter notebook and commit it to your git repo.
 - See the video linked in the assignment, and submit a link to the ipynb file in your github repo at the end.
+- [More on markdown in case you are curious](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
 
 ### 6. Watch a short video to prepare for class (and remember to watch last week's video if you forgot to).
 - [Programming Terms: Mutable vs Immutable (7 min video)](https://www.youtube.com/watch?v=5qQQ3yzbKp8)
