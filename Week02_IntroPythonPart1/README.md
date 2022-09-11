@@ -6,7 +6,7 @@ Like last week, if you run into issues please contact us before class. Please up
 ### 1. Test to make sure you have your ssh key set up correctly by following the [test instructions](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection).
 - Please take a screenshot of your terminal output showing what is expected from step 3 of the instructions and submit it to the assignment on courseworks.
 - Remember that you should copy lines starting with `$` in to your terminal, excluding the `$`. Lines after `#` give a comment or explanation on what you are being told to do, and lines after `>` are the output you should expect to see.
-- Windows users, use git bash within PowerShell for this.
+- Windows users, use git bash for this.
 - If you get errors about git being an unknown command, make sure the intropython environment is active for this step.
 - If you run into issues, make sure you have finished following the ssh key setup instructions we used in the first class, specifically: 
   1. [Generating a new ssh key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key)
