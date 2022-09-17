@@ -101,3 +101,7 @@ Schedule:
   </tr>
 </tbody>
 </table>
+
+## Miscellaneous Resources
+- Go beyond what we covered in Week 1 with Git, Command Line, Shell, Code Editors and more with [The Missing Semester of Your CS Education](https://missing.csail.mit.edu) from MIT
+- [The Good Research Code Handbook by Patrick Mineault](https://goodresearch.dev) -- good principles for writing research code in a quick and enjoyable read. He also provides information about [good tools](https://goodresearch.dev/tools.html#) that are good to explore if you are coding regularly.
