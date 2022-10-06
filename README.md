@@ -6,7 +6,9 @@ Course Structure: Classes will consist of live programming and instruction, with
 
 Prerequisites: No background in programming or math is required. All we ask is that you come with a desire to learn :)
 
-Grading: Grades will be based on participation and the final project.
+Grades will be based on participation and the final project.
+
+Email: PfNColumbia2022@gmail.com
 
 Important dates:
 * By 9/6: Setup computer following these [instructions](https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2022/tree/main/Week01_SetUpEnvAndHelloWorld).
