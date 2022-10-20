@@ -42,8 +42,9 @@ The end product should be a Jupyter notebook, in which you define your analysis.
 
 The code should run if we execute the Jupyter notebook in order. Moreover, if we modify the input in a minor way, the notebook should still be able to execute in order. For example, maybe you are analyzing one particular neural dataset. If we instead read in a dataset structured in the same manner, the code should still work.
 
-Hint 1: Make sure to run “Restart & Run All” under the “Kernel” tab in the notebook before turning your project in. This makes sure that the code runs if all cells are executed in order.
-Hint 2: One major reason why your code may not run if the input is modified is if certain variables are hard-coded. For example, suppose you are analyzing a dataframe with 250 observations. This may mean that you are explicitly referencing this number of observations somewhere. You should not write “250” in this position, but rather compute how many observations your dataframe has (e.g. using “df.shape[0]”).
+*Hint 1:* Make sure to run “Restart & Run All” under the “Kernel” tab in the notebook before turning your project in. This makes sure that the code runs if all cells are executed in order.
+
+*Hint 2:* One major reason why your code may not run if the input is modified is if certain variables are hard-coded. For example, suppose you are analyzing a dataframe with 250 observations. This may mean that you are explicitly referencing this number of observations somewhere. You should not write “250” in this position, but rather compute how many observations your dataframe has (e.g. using “df.shape[0]”).
 
 ### Error handling
 
@@ -53,11 +54,8 @@ Hint: Review the section on Exceptions in the lesson from Week 5 to see some exa
 ### Documentation
 
 Your notebook should explain at each step what your code is implementing. If you are working with functions, you should use a docstring that explains the arguments your function is expecting, what the function is doing, and what the return values of the function look like. Otherwise you can simply provide the explanations as text in your notebook.
-Hint: Explaining the arguments the function is expecting may give you some good ideas for appropriate error messages.
 
-### Modularity (Advanced.)
-
-We recommend that you work with functions. Each function you define should implement a specific step of your analysis. What this looks like will depend a lot on your project. It is also often difficult to see what the appropriate modularity for a given project is, so this is an advanced criterion.
+*Hint:* Explaining the arguments the function is expecting may give you some good ideas for appropriate error messages.
 
 ### Efficiency (Advanced.)
 
